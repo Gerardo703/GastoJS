@@ -14,6 +14,6 @@ Pryecto que simula un filtrado de datos mediante select:
 <ul>
   <li>Agrega un gasto nuevo a la lista</li>
   <li>Elimina un gasto</li>
-  <li>Actualiza el restande de dinero<li>
-  <li>Reembolas al eliminar un gasto<li>
+  <li>Actualiza el restande de dinero</li>
+  <li>Reembolas al eliminar un gasto</li>
 </ul>
